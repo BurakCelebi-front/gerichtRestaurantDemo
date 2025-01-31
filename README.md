@@ -8,6 +8,6 @@ A sleek and fully responsive **one-page restaurant landing page** built with **R
 ✅ Smooth animations and transitions <br>
 ✅ Optimized for performance <br><br>
 
-# 🛠 Tech Stack <br>
+# 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma">
